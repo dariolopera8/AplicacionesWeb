@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>descuentodario</name>
+    <displayName><![CDATA[Codigos de descuento]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[En este modulo se podr&aacute;n adminisrtar c&oacute;digos de descuento en los productos]]></description>
+    <author><![CDATA[Dario Lopera]]></author>
+    <tab><![CDATA[pricing_promotion]]></tab>
+	<confirmUninstall><![CDATA[¿Estas seguro de que quieres desinstalar el modulo?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
